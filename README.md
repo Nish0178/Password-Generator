@@ -19,4 +19,4 @@ A simple and secure password generator web application.
 2. Open index.html in browser
 
 ## 👨‍💻 Author
-Niket
+Nishnat_TrivedI
