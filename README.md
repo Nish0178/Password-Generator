@@ -16,7 +16,7 @@ A simple and secure password generator web application.
 
 ## 📂 How to Run
 1. Clone the repo
-2. Open index.html in browser
+2. Open index.html in browgit add README.mdser
 
 ## 👨‍💻 Author
-Nishnat_TrivedI
+Nishant_Trivedi
